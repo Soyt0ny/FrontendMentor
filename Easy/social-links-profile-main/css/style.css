@@ -80,6 +80,7 @@ p{
     display: flex;
     flex-direction: column;
     align-items: center;
+    width: 100%;
 }
 
 .social-links a{
